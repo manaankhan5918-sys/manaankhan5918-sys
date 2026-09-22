@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Hi, I'm Abdul Manaan Khan 👋
+- 🎓 BCA student at Islamia College of Science and Commerce, Srinagar
 <!--
 **manaankhan5918-sys/manaankhan5918-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
